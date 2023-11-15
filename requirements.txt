@@ -1,4 +1,4 @@
-Flask==2.0.1
+Flask==2.1.2
 twilio==6.78.0
 transformers==4.11.3
 torch==1.9.1

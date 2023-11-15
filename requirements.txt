@@ -1,0 +1,6 @@
+Flask==2.0.1
+twilio==6.78.0
+transformers==4.11.3
+torch==1.9.1
+fuzzywuzzy==0.18.0
+beautifulsoup4==4.10.0

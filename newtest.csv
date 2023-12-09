@@ -1,0 +1,221 @@
+Question1,Question2,Label
+What are the symptoms of diabetes? , How is diabetes diagnosed? ,1
+Can stress cause headaches? , What are common headache triggers? ,1
+How is heart disease diagnosed? , What are the risk factors for heart disease? ,1
+What is the treatment for asthma? , How to manage asthma symptoms? ,1
+Is there a cure for cancer? , What are the treatment options for cancer? ,1
+What are the side effects of ibuprofen? , How to manage pain without medication? ,1
+Can you prevent the flu with a vaccine? , How does the flu vaccine work? ,1
+What are the risk factors for stroke? , How to prevent a stroke? ,1
+How is pneumonia treated? , What are the common treatments for pneumonia? ,1
+Are there early signs of Alzheimer's? , How is Alzheimer's diagnosed? ,1
+How to manage stress? , What are effective stress management techniques? ,1
+Can exercise help with anxiety? , What are the benefits of exercise for mental health? ,1
+What are the symptoms of COVID-19? , How to prevent the spread of infectious diseases? ,1
+How to lower blood pressure naturally? , What are natural ways to reduce blood pressure? ,1
+Is there a link between diet and heart disease? , How does diet affect heart health? ,1
+What are the common symptoms of flu? , How to differentiate between flu and cold symptoms? ,1
+How to prevent the spread of infectious diseases? , What are the best practices for infection control? ,1
+Is it possible to reverse diabetes? , What are the complications of diabetes? ,1
+How to recognize signs of a heart attack? , What to do if you suspect a heart attack? ,1
+Can allergies cause chest pain? , How to manage chest pain from allergies? ,1
+How to treat a migraine headache? , What are effective treatments for migraines? ,1
+Can stress trigger autoimmune diseases? , What are the types of autoimmune diseases? ,1
+What is the role of cholesterol in the body? , How does cholesterol affect health? ,1
+Is there a connection between obesity and diabetes? , How does obesity relate to diabetes? ,1
+Can lack of sleep lead to health problems? , How to improve sleep quality? ,1
+Is there a cure for the common cold? , How to manage cold symptoms? ,1
+What is the recommended daily water intake? , How to stay hydrated for good health? ,1
+Can certain foods cause inflammation? , What are anti-inflammatory foods? ,1
+How to recognize the signs of a stroke? , What are the warning signs of a stroke? ,1
+Can you prevent the spread of infectious diseases? , How to avoid getting sick? ,1
+How to improve cardiovascular health? , What are the benefits of cardiovascular exercise? ,1
+Is there a connection between smoking and lung cancer? , How to quit smoking? ,1
+How to cope with seasonal allergies? , What are effective allergy management strategies? ,1
+What is the difference between a cold and the flu? , How to differentiate between flu and cold symptoms? ,1
+Is it possible to reverse the effects of high cholesterol? , How to lower cholesterol levels naturally? ,1
+How to prevent the spread of foodborne illnesses? , What are the best practices for food safety? ,1
+Is there a link between alcohol consumption and liver disease? , How does alcohol affect the liver? ,1
+How to recognize signs of dehydration? , How to stay hydrated during hot weather? ,1
+Can stress affect the immune system? , How to support a healthy immune system? ,1
+How to identify symptoms of a food allergy? , What are common food allergy symptoms? ,1
+How to prevent the spread of antibiotic resistance? , How do antibiotics work? ,1
+Is there a connection between sleep and mental health? , How to improve mental health through sleep? ,1
+Can certain foods cause heartburn? , What are common heartburn triggers? ,1
+How to recognize symptoms of kidney disease? , What are common signs of kidney disease? ,1
+Can anxiety cause digestive problems? , How to relieve digestive issues caused by anxiety? ,1
+How to recognize signs of a heart condition? , How to perform CPR? ,1
+What are the symptoms of lupus? , How to manage lupus symptoms? ,1
+Is there a link between high blood pressure and stroke? , What are the complications of high blood pressure? ,1
+Can stress trigger autoimmune diseases? , What are the effects of stress on the immune system? ,1
+How to recognize symptoms of thyroid problems? , How to manage thyroid disorders? ,1
+How to choose the right pair of shoes? , How to prevent foot problems? ,0
+What are the benefits of meditation? , How to grow a vegetable garden? ,0
+Is there a connection between vitamin C and immunity? , How to knit a scarf? ,0
+How to relieve stress through mindfulness? , How to bake a cake? ,0
+What are the benefits of regular exercise? , How to set up a home office? ,0
+How to maintain healthy hair? , How to tie a tie? ,0
+What are the signs of a healthy diet? , How to organize your closet? ,0
+How to stay hydrated during exercise? , How to choose the right smartphone? ,0
+Is there a link between sleep and mood? , How to improve your photography skills? ,0
+How to recognize signs of vitamin deficiency? , How to plan a vacation? ,0
+Can yoga help with flexibility? , How to learn a new dance? ,0
+How to reduce stress through deep breathing? , How to start a book club? ,0
+What are the benefits of a well-balanced diet? , How to paint a room? ,0
+How to improve your posture? , How to create a budget? ,0
+Is there a connection between hydration and skin health? , How to make a smoothie? ,0
+How to recognize signs of a common cold? , How to play a musical instrument? ,0
+Can a healthy diet prevent aging? , How to grow herbs indoors? ,0
+How to maintain a healthy weight? , How to fix a leaky faucet? ,0
+What are the benefits of staying physically active? , How to build a birdhouse? ,0
+How to manage stress through art therapy? , How to sew a button? ,0
+Is there a link between sun exposure and skin cancer? , How to build a sandcastle? ,0
+How to improve your cardiovascular fitness? , How to write a poem? ,0
+How to recognize signs of good mental health? , How to improve your chess game? ,0
+What are the benefits of regular sleep patterns? , How to make homemade ice cream? ,0
+How to maintain healthy eyesight? , How to plant flowers in your garden? ,0
+Is there a connection between laughter and well-being? , How to do a home workout? ,0
+How to recognize signs of good nutrition? , How to knit a scarf? ,0
+Can positive thinking improve health? , How to learn a new language? ,0
+How to manage stress through gardening? , How to set up a home office? ,0
+What are the benefits of a plant-based diet? , How to paint a room? ,0
+How to improve your mental well-being? , How to create a budget? ,0
+Is there a connection between hydration and kidney health? , How to make a smoothie? ,0
+How to recognize signs of a common cold? , How to play a musical instrument? ,0
+Can a healthy diet prevent aging? , How to grow herbs indoors? ,0
+How to maintain a healthy weight? , How to fix a leaky faucet? ,0
+What are the benefits of staying physically active? , How to build a birdhouse? ,0
+How to manage stress through art therapy? , How to sew a button? ,0
+Is there a link between sun exposure and skin cancer? , How to build a sandcastle? ,0
+How to improve your cardiovascular fitness? , How to write a poem? ,0
+How to recognize signs of good mental health? , How to improve your chess game? ,0
+What are the benefits of regular sleep patterns? , How to make homemade ice cream? ,0
+How to maintain healthy eyesight? , How to plant flowers in your garden? ,0
+Is there a connection between laughter and well-being? , How to do a home workout? ,0
+How to recognize signs of good nutrition? , How to knit a scarf? ,0
+Can positive thinking improve health? , How to learn a new language? ,0
+How to manage stress through gardening? , How to set up a home office? ,0
+What are the benefits of a plant-based diet? , How to paint a room? ,0
+How to improve your mental well-being? , How to create a budget? ,0
+Is there a connection between hydration and kidney health? , How to make a smoothie? ,0
+What are the symptoms of diabetes? , How is diabetes diagnosed? ,1
+Can stress cause headaches? , How to cure Heart disease? ,0
+How is heart disease diagnosed? , What are the risk factors for heart disease? ,1
+What is the treatment for asthma? , Is it okay to use hot water when having skin diseases? ,0
+Is there a cure for cancer? , What are the common types of cancer? ,1
+What are the side effects of ibuprofen? , how long does cold last? ,0
+Can you prevent the flu with a vaccine? , what are side effects of vaccine? ,1
+What are the risk factors for stroke? , How to improve memory? ,0
+How is pneumonia treated? , What are the symptoms of pneumonia? ,1
+Are there early signs of Alzheimer's? , How to develop good eating habits? ,0
+How to manage stress? , What are effective stress management techniques? ,1
+Can exercise help with anxiety? , what hormones cause anxiety? ,0
+What are the symptoms of COVID-19? , How to prevent the spread of viral diseases? ,1
+How to lower blood pressure naturally? , What are the causes of high blood pressure? ,1
+Is there a link between diet and heart disease? , what constitutes healthy diet? ,1
+What are the common symptoms of flu? , How to play the piano? ,0
+How to prevent the spread of infectious diseases? , What are the best practices for infection control? ,1
+Is it possible to reverse diabetes? , What are the complications of diabetes? ,1
+How to recognize signs of a heart attack? , How to ride a bike? ,0
+Can allergies cause chest pain? , What are common allergy symptoms? ,1
+How to treat a migraine headache? , How to create a budget? ,0
+Can stress trigger autoimmune diseases? , What are the types of autoimmune diseases? ,1
+What is the role of cholesterol in the body? , How to start a small business? ,0
+Is there a connection between obesity and diabetes? , What is the BMI? ,1
+Can lack of sleep lead to health problems? , How to make a smoothie? ,0
+Is there a cure for the common cold? , How to write poetry? ,0
+What is the recommended daily water intake? , How to save money? ,0
+Can certain foods cause inflammation? , What are anti-inflammatory foods? ,1
+How to recognize the signs of a stroke? , How to learn a new language? ,0
+Can you prevent the spread of infectious diseases? , How to avoid getting sick? ,1
+How to improve cardiovascular health? , What are the benefits of cardiovascular exercise? ,1
+Is there a connection between smoking and lung cancer? , How to quit smoking? ,1
+How to cope with seasonal allergies? , How to plant a garden? ,0
+What is the difference between a cold and the flu? , How to play chess? ,0
+Is it possible to reverse the effects of high cholesterol? , How to meditate? ,1
+How to manage thyroid disorders? , What are common treatments for thyroid problems? ,1
+What is the connection between smoking and lung disease? , How to quit smoking? ,1
+Can you prevent the spread of infectious diseases? , How to wash hands properly? ,1
+How to recognize signs of a concussion? , How to treat a concussion? ,1
+Can allergies cause skin problems? , What are common skin allergy symptoms? ,1
+How to manage chronic pain? , What are the benefits of physical therapy for chronic pain? ,1
+What are the symptoms of a urinary tract infection? , How to prevent UTIs? ,1
+Is there a cure for hepatitis? , What are the treatment options for hepatitis? ,1
+How to prevent foodborne illnesses? , What are food safety guidelines? ,1
+How to cope with seasonal allergies? , What are effective allergy management strategies? ,1
+What is the difference between a cold and the flu? , How to differentiate between flu and cold symptoms? ,1
+Is it possible to reverse the effects of high cholesterol? , How to lower cholesterol levels naturally? ,1
+How to prevent the spread of foodborne illnesses? , What are the best practices for food safety? ,1
+Is there a link between alcohol consumption and liver disease? , How does alcohol affect the liver? ,1
+How to recognize signs of dehydration? , How to stay hydrated during hot weather? ,1
+Can stress affect the immune system? , How to support a healthy immune system? ,1
+How to identify symptoms of a food allergy? , What are common food allergy symptoms? ,1
+How to prevent the spread of antibiotic resistance? , How do antibiotics work? ,1
+Is there a connection between sleep and mental health? , How to improve mental health through sleep? ,1
+Can certain foods cause heartburn? , What are common heartburn triggers? ,1
+How to recognize symptoms of kidney disease? , What are common signs of kidney disease? ,1
+Can anxiety cause digestive problems? , How to relieve digestive issues caused by anxiety? ,1
+How to recognize signs of a heart condition? , How to perform CPR? ,1
+What are the symptoms of lupus? , How to manage lupus symptoms? ,1
+Is there a link between high blood pressure and stroke? , What are the complications of high blood pressure? ,1
+Can stress trigger autoimmune diseases? , What are the effects of stress on the immune system? ,1
+How to recognize symptoms of thyroid problems? , How to manage thyroid disorders? ,1
+How to prevent the spread of infectious diseases? , What are the best practices for infection control? ,1
+How to improve cardiovascular health? , What are the benefits of cardiovascular exercise? ,1
+Is there a connection between smoking and lung cancer? , How to quit smoking? ,1
+How to cope with seasonal allergies? , How to plant a garden? ,0
+What is the difference between a cold and the flu? , How to play chess? ,0
+Is it possible to reverse the effects of high cholesterol? , How to meditate? ,1
+How to prevent foodborne illnesses? , What are food safety guidelines? ,1
+What are the symptoms of a urinary tract infection? , How to take care of houseplants? ,0
+Is there a cure for hepatitis? , What are the types of hepatitis? ,1
+How to manage chronic pain? , What are effective pain management strategies? ,1
+Is there a link between alcohol consumption and liver disease? , How to make a cocktail? ,0
+How to recognize signs of dehydration? , How much water should you drink daily? ,1
+Can stress affect the immune system? , How to boost the immune system? ,1
+How to identify symptoms of a food allergy? , What are common food allergies? ,1
+How to prevent the spread of antibiotic resistance? , How do antibiotics work? ,1
+Is there a connection between sleep and mental health? , How to improve mental health? ,1
+Can certain foods cause heartburn? , What are common heartburn triggers? ,1
+How to recognize symptoms of kidney disease? , How to prevent kidney disease? ,1
+Can anxiety cause digestive problems? , How to relieve digestive issues? ,1
+How to recognize signs of a heart condition? , How to perform CPR? ,1
+What are the symptoms of lupus? , How to manage lupus symptoms? ,1
+Is there a link between high blood pressure and stroke? , What are the complications of high blood pressure? ,1
+Can stress trigger autoimmune diseases? , What are the effects of stress on the immune system? ,1
+How to recognize symptoms of thyroid problems? , How to manage thyroid disorders? ,1
+What are the symptoms of diabetes? , How is diabetes diagnosed? ,1
+Can stress cause headaches? , How to cook spaghetti? ,0
+How is heart disease diagnosed? , What are the risk factors for heart disease? ,1
+What is the treatment for asthma? , How to fix a leaking faucet? ,0
+Is there a cure for cancer? , What are the common types of cancer? ,1
+What are the side effects of ibuprofen? , How to paint a room? ,0
+Can you prevent the flu with a vaccine? , How to change a tire? ,0
+What are the risk factors for stroke? , How to improve memory? ,0
+How is pneumonia treated? , What are the symptoms of pneumonia? ,1
+Are there early signs of Alzheimer's? , How to program a computer? ,0
+How to manage stress? , What are effective stress management techniques? ,1
+Can exercise help with anxiety? , How to grow tomatoes? ,0
+What are the symptoms of COVID-19? , How to prevent the spread of infectious diseases? ,1
+How to lower blood pressure naturally? , What are the causes of high blood pressure? ,1
+Is there a link between diet and heart disease? , How to write a novel? ,0
+What are the common symptoms of flu? , How to play the piano? ,0
+How to prevent the spread of infectious diseases? , What are the best practices for infection control? ,1
+Is it possible to reverse diabetes? , What are the complications of diabetes? ,1
+How to recognize signs of a heart attack? , How to ride a bike? ,0
+Can allergies cause chest pain? , What are common allergy symptoms? ,1
+How to treat a migraine headache? , How to create a budget? ,0
+Can stress trigger autoimmune diseases? , What are the types of autoimmune diseases? ,1
+What is the role of cholesterol in the body? , How to start a small business? ,0
+Is there a connection between obesity and diabetes? , What is the BMI? ,1
+Can lack of sleep lead to health problems? , How to make a smoothie? ,0
+Is there a cure for the common cold? , How to write poetry? ,0
+What is the recommended daily water intake? , How to save money? ,0
+Can certain foods cause inflammation? , What are anti-inflammatory foods? ,1
+How to recognize the signs of a stroke? , How to learn a new language? ,0
+Can you prevent the spread of infectious diseases? , How to avoid getting sick? ,1
+How to improve cardiovascular health? , What are the benefits of cardiovascular exercise? ,1
+Is there a connection between smoking and lung cancer? , How to quit smoking? ,1
+How to cope with seasonal allergies? , How to plant a garden? ,0
+What is the difference between a cold and the flu? , How to play chess? ,0
+Is it possible to reverse the effects of high cholesterol? , How to meditate? ,1
